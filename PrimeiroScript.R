@@ -1,3 +1,0 @@
-#Primeiro Script
-
-Alterado localmente
