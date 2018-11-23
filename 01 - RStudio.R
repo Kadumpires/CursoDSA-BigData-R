@@ -59,6 +59,7 @@ help(mean)
 ?mean
 
 
+
 # Para buscar mais opções sobre uma função, use o pacote SOS
 install.packages("sos")
 library(sos)
