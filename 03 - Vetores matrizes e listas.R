@@ -32,3 +32,6 @@ mat1[2,4]
 dimnames(mat1) = list(c('line1','line2','line3'), c('col1','col2','col3','col4','col5'))
 mat1
 mat1['line2', 'col3']
+
+#operação entre matriz e vetor
+mat1 + vetNum2
